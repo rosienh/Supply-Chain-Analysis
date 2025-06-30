@@ -30,7 +30,7 @@ The analysis is built upon detailed quantitative data points for each supplier a
 This executive summary highlights the key findings and strategic recommendations from the comprehensive supply chain performance analysis. Significant disparities in supplier performance and category health have been identified, leading to tailored recommendations aimed at optimizing efficiency and profitability.
 
 ## 4. Insights Deep Dive
-*Initial insights reveal significant disparities in supplier performance and category health:*
+Initial insights reveal significant disparities in supplier performance and category health:
 
 ### Supplier Performance: 
 Supplier A demonstrates strong inventory control (lowest back order rate) but faces challenges with declining perfect order rates and increasing lead times. Supplier D excels in perfect order rate and lead time stability but struggles with a high back order rate. Supplier B shows improvement in perfect order rate and lead time but has the highest transportation costs. Supplier C has a moderate back-order rate and improving perfect order accuracy.
