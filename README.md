@@ -3,28 +3,28 @@
 ## 1. Background and Overview
 This document provides a high-level overview of a comprehensive supply chain performance analysis across **four key suppliers (A, B, C, D)** and several **product categories (Furniture, Clothing, Electronics, Accessories)**. The analysis focuses on critical Supply Chain metrics such as **back order rates, transportation costs, perfect order rates, lead time variability, and inventory management indicators like COGS and inventory turnover.** The timeline of this analysis spans from 2020 to 2024. The aim is to identify areas of strength, pinpoint operational challenges, and provide actionable recommendations to optimize supply chain efficiency and enhance profitability.
 
-## 2. Data Structure Overview
+## 2. Key Supply Chain Metrics Analyzed 
 The analysis is built upon detailed quantitative data points for each supplier and category, including:
 
 **Supplier Performance Metrics:**
 
-  Back Order Rate (percentage of unfulfilled orders)
+- Back Order Rate (percentage of unfulfilled orders)
 
-  Transportation Cost per Unit ($)
+- Transportation Cost per Unit ($)
 
-  Perfect Order Rate (indicating fulfillment accuracy and completeness)
+- Perfect Order Rate (indicating fulfillment accuracy and completeness)
 
-  Lead Time Variability (days, reflecting consistency in delivery)
+- Lead Time Variability (days, reflecting consistency in delivery)
 
 **Category Performance Metrics:**
  
-  Safety Stock Coverage (days)
+- Safety Stock Coverage (days)
 
-  Cost of Goods Sold (COGS) by supplier and category ($k)
+- Cost of Goods Sold (COGS) by supplier and category ($k)
 
-  Inventory Turnover (rate)
+- Inventory Turnover (rate)
 
-  Average Units Sold (items)
+- Average Units Sold (items)
 
 ## 3. Executive Summary
 This executive summary highlights the key findings and strategic recommendations from the comprehensive supply chain performance analysis. Significant disparities in supplier performance and category health have been identified, leading to tailored recommendations aimed at optimizing efficiency and profitability.
