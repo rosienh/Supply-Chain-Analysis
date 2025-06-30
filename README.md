@@ -33,7 +33,6 @@ This executive summary highlights the key findings and strategic recommendations
 Initial insights reveal significant disparities in supplier performance and category health:
 
 ### Supplier Performance: 
-Supplier A demonstrates strong inventory control (lowest back order rate) but faces challenges with declining perfect order rates and increasing lead times. Supplier D excels in perfect order rate and lead time stability but struggles with a high back order rate. Supplier B shows improvement in perfect order rate and lead time but has the highest transportation costs. Supplier C has a moderate back-order rate and improving perfect order accuracy.
 
 **Supplier A** showcases remarkable inventory control with the lowest back order rate, yet faces critical challenges with a concerning decline in perfect order rates and noticeable increases in lead times. 
 
@@ -41,7 +40,7 @@ In contrast, **Supplier D** stands out for exceptional perfect order rates and u
 
 **Supplier B** demonstrates commendable progress in improving both perfect order rates and lead times, but its operational efficiency is hampered by the highest transportation costs. 
 
-Meanwhile,**Supplier C** maintains a moderate back-order rate and consistently improves its perfect order accuracy, signaling steady gains in reliability.
+Meanwhile, **Supplier C** maintains a moderate back-order rate and consistently improves its perfect order accuracy, signaling steady gains in reliability.
 
 ### Category Performance:
 
