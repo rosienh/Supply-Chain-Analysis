@@ -1,7 +1,7 @@
 # Supply-Chain-Analysis
 
 ## 1. Background and Overview
-This document provides a high-level overview of a comprehensive supply chain performance analysis across four key suppliers (A, B, C, D) and several product categories (Furniture, Clothing, Electronics, Accessories). The analysis focuses on critical metrics such as back order rates, transportation costs, perfect order rates, lead time variability, and inventory management indicators like COGS and inventory turnover. The timeline of this analysis spans from 2020 to 2024. The aim is to identify areas of strength, pinpoint operational challenges, and provide actionable recommendations to optimize supply chain efficiency and enhance profitability.
+This document provides a high-level overview of a comprehensive supply chain performance analysis across **four key suppliers (A, B, C, D)** and several **product categories (Furniture, Clothing, Electronics, Accessories)**. The analysis focuses on critical Supply Chain metrics such as **back order rates, transportation costs, perfect order rates, lead time variability, and inventory management indicators like COGS and inventory turnover.** The timeline of this analysis spans from 2020 to 2024. The aim is to identify areas of strength, pinpoint operational challenges, and provide actionable recommendations to optimize supply chain efficiency and enhance profitability.
 
 ## 2. Data Structure Overview
 The analysis is built upon detailed quantitative data points for each supplier and category, including:
