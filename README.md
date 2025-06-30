@@ -6,25 +6,25 @@ This document provides a high-level overview of a comprehensive supply chain per
 ## 2. Data Structure Overview
 The analysis is built upon detailed quantitative data points for each supplier and category, including:
 
-*Supplier Performance Metrics:*
+**Supplier Performance Metrics:**
 
-Back Order Rate (percentage of unfulfilled orders)
+  Back Order Rate (percentage of unfulfilled orders)
 
-Transportation Cost per Unit ($)
+  Transportation Cost per Unit ($)
 
-Perfect Order Rate (indicating fulfillment accuracy and completeness)
+  Perfect Order Rate (indicating fulfillment accuracy and completeness)
 
-Lead Time Variability (days, reflecting consistency in delivery)
+  Lead Time Variability (days, reflecting consistency in delivery)
 
-*Category Performance Metrics:*
+**Category Performance Metrics:**
+ 
+  Safety Stock Coverage (days)
 
-Safety Stock Coverage (days)
+  Cost of Goods Sold (COGS) by supplier and category ($k)
 
-Cost of Goods Sold (COGS) by supplier and category ($k)
+  Inventory Turnover (rate)
 
-Inventory Turnover (rate)
-
-Average Units Sold (items)
+  Average Units Sold (items)
 
 ## 3. Executive Summary
 This executive summary highlights the key findings and strategic recommendations from the comprehensive supply chain performance analysis. Significant disparities in supplier performance and category health have been identified, leading to tailored recommendations aimed at optimizing efficiency and profitability.
