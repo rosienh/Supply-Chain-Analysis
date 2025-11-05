@@ -1,4 +1,8 @@
-# Supply-Chain-Analysis
+# Supply Chain Analysis
+
+<img width="1390" height="786" alt="image" src="https://github.com/user-attachments/assets/001f2789-7bbd-4b0f-8dee-186b39f85e0c" />
+*(Please find the attached Power BI file above (ends with pbix.)*
+
 
 ## 1. Background and Overview
 This document presents a detailed supply chain performance analysis designed to help decision-makers optimize operational efficiency, reduce costs, and improve service reliability across **four strategic suppliers (A–D)** and **four core product categories (Furniture, Clothing, Electronics, Accessories)**.
