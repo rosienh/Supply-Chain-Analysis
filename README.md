@@ -1,4 +1,4 @@
-# Visualizing Climate Change: Emissions, Impacts, and Education
+# Supply Chain Analysis
 
 <img width="1390" height="786" alt="image" src="https://github.com/user-attachments/assets/001f2789-7bbd-4b0f-8dee-186b39f85e0c" />
 *(Please find the attached Power BI file above (ends with pbix.)*
